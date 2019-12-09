@@ -1,5 +1,5 @@
-#GifTastic
-###https://connander.github.io/gifTasticHomework/
+# GifTastic
+### https://connander.github.io/gifTasticHomework/
 
 ## Table of contents
 * [General info](#general-info)
